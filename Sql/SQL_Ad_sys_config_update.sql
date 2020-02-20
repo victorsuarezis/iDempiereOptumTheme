@@ -1,0 +1,1 @@
+﻿UPDATE adempiere.AD_SysConfig SET value='optumTheme' WHERE name='ZK_THEME'
