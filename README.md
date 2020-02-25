@@ -1,8 +1,7 @@
 #Readme
 
 Pre-requisiites :
-- Java (Jdk)
-- iDempiere environment.
+- iDempiere 7.1
 
 Optum Them Plugin :
 - Import theme plugin in eclipse
